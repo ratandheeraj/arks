@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arks/static/css/main.8ee8784e.css",
+    "main.js": "/arks/static/js/main.5d3217be.js",
+    "index.html": "/arks/index.html",
+    "main.8ee8784e.css.map": "/arks/static/css/main.8ee8784e.css.map",
+    "main.5d3217be.js.map": "/arks/static/js/main.5d3217be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ee8784e.css",
+    "static/js/main.5d3217be.js"
+  ]
+}
